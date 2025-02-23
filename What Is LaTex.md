@@ -28,4 +28,4 @@ LaTeX is preferred over traditional word processors for several reasons:
 LaTeX is an essential tool for academics, researchers, and professionals who require precise and automated document formatting. Its capabilities far exceed those of traditional word processors, making it the preferred choice for producing scientific and technical content.
 
 
-[← Readme Page](<README.md>) | **1** | [Next Page →](<Installation in Window.md>)
+| **1** | [Next Page →](<Installation in Window.md>)

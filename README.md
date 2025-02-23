@@ -39,7 +39,7 @@ Contributions are welcome! If you have suggestions, improvements, or new content
 
 ## License
 
-This project is licensed under the [Creative Commons Zero v1.0 Universal (CC](<LICENSE>) license.
+This project is licensed under the [Creative Commons Zero v1.0 Universal (CC)](<LICENSE>) license.
 
 ## Contact
 

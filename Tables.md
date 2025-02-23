@@ -77,4 +77,4 @@ Guitar & Harmonica & Violin  \\
 The `tabular` environment is a **powerful tool** for creating well-structured tables in LaTeX. By combining **column alignments**, **lines**, and **row separators**, you can format tables as per your needs.  
 
 
-[← Previous Page](<List,Comments & Spacing, Special Characters.md>) | **7** | [Next Page →](<README.md>)
+[← Previous Page](<List,Comments & Spacing, Special Characters.md>) | **7** | [Next Page →]()
