@@ -69,4 +69,4 @@ LaTeX's flexibility in document classes—from articles and reports to books and
 
 Happy typesetting!⚡💻
 
-[← Previous Page](<Installation in Window.md>) | **3** | [Next Page →](<Essentials, Sections, Titles & Labels.md>)
+[← Previous Page](<Installation.md>) | **3** | [Next Page →](<Essentials, Sections, Titles & Labels.md>)
